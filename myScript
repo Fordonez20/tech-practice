@@ -1,0 +1,6 @@
+
+
+sudo systemctl status apache2 > statusFile.txt
+git add .
+git commit -m "updating status of apache"
+git push
